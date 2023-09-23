@@ -1,6 +1,6 @@
-# SPDX-License-Identifier: GPL-2.0-or-later
+# SPDX-License-Identifier: GPL-2.0-only
 #
-# Copyright (C) 2017-2023 shiyu1314 <1052672227@qq.com>
+# Copyright (C) 2006-2013 OpenWrt.org
 
 include $(TOPDIR)/rules.mk
 
@@ -8,7 +8,6 @@ ARCH:=arm
 BOARD:=meson
 BOARDNAME:=Amlogic Meson family
 FEATURES:=boot-part ext4 fpu legacy-sdcard squashfs usbgadget
-MAINTAINER:=shiyu1314 <1052672227@qq.com>
 SUBTARGETS:=meson8b
 
 KERNEL_PATCHVER:=6.1

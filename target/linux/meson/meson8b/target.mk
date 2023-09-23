@@ -1,10 +1,6 @@
 # SPDX-License-Identifier: GPL-2.0-only
 #
-# Copyright (C) 2020 shiyu1314 <1052672227@qq.com>
-#
-# This is free software, licensed under the GNU General Public License v2.
-# See /LICENSE for more information.
-#
+# Copyright (C) 2006-2013 OpenWrt.org
 
 ARCH:=arm
 SUBTARGET:=meson8b
